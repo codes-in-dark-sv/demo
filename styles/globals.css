@@ -1,0 +1,13 @@
+#touched{
+  background-color: red;
+}
+#untouched{
+  background-color: blue;
+}
+.matrix-display{
+
+  background-color: none;
+  margin-left: 35%;
+  margin-top: 10%;
+  width: 400px;
+}
